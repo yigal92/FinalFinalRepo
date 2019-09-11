@@ -1,7 +1,7 @@
 <html>
 <style>
 span {
-  font-size: 300px;
+  font-size: 250px;
 }
 </style>
 <body>
